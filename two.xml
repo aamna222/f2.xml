@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foodlist>
+    <fooditem>
+        <name>lasagnia</name>
+        <cost>$13</cost>
+    </fooditem>
+    <fooditem>
+        <name>friedrice</name>
+        <cost>$13</cost>
+    </fooditem>
+    <fooditem>
+        <name>mc chicken</name>
+        <cost>$13</cost>
+    </fooditem>
+    <fooditem>
+        <name>shawarma</name>
+        <cost>$13</cost>
+    </fooditem>
+    <fooditem>
+        <name>lasagnia</name>
+        <cost>$13</cost>
+    </fooditem>
+</foodlist>
